@@ -1,0 +1,7 @@
+# Raw ECG recordings (large) - download from Google Drive / PhysioNet
+ECG_DATA/CHD/
+ECG_DATA/Non_CHD/
+ECG_DATA/Normal/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
